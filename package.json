@@ -1,0 +1,22 @@
+{
+  "name": "@lutfifadlie/crypto200",
+  "version": "1.0.0",
+  "description": "tea testnet crypto200",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lutfifadlie/crypto200.git"
+  },
+  "author": "lutfifadlie",
+  "dependencies": {
+    "@lutfifadlie/cryptosys2015": "1.1.4"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lutfifadlie/crypto200/issues"
+  },
+  "homepage": "https://github.com/lutfifadlie/crypto200#readme"
+}
